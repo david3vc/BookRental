@@ -59,7 +59,7 @@ namespace WebApi.Controllers
             return TypedResults.Ok(response);
         }
 
-        [HttpGet("Delete")]
+        [HttpDelete("Delete")]
         [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(PrestamoDetalleDto))]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
