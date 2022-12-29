@@ -29,9 +29,6 @@
     <Folder Include="Dtos\" />
     <Folder Include="Dtos\Editoriales\" />
     <Folder Include="Dtos\Editoriales\Maps\" />
-    <Folder Include="Services\" />
-    <Folder Include="Services\Abstractions\" />
-    <Folder Include="Services\Implementations\" />
     <Folder Include="Base\" />
     <Folder Include="Dtos\Libros\" />
     <Folder Include="Dtos\Libros\Maps\" />
